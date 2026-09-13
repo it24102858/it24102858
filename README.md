@@ -9,7 +9,7 @@
 <!-- Animated Typing Subtitle -->
 <img src="./assets/typing.svg" alt="Typing Animation: Developer • Designer • Learner | Code • Create • Improve | Flutter • Python • JavaScript" width="480">
 
-<br/><br/>
+
 
 <!-- Custom Animated Coding Character Visual -->
 <img src="./assets/Software Devlopment.svg" alt="Ruditha Yukthika - Animated Coding Developer" width="80%" style="max-width: 500px;">
