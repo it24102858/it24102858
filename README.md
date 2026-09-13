@@ -7,12 +7,12 @@
 <br/>
 
 <!-- Animated Typing Subtitle -->
-<img src="./assets/typing.svg" alt="Typing Animation: Developer • Designer • Learner | Code • Create • Improve | Flutter • Python • JavaScript" width="500">
+<img src="./assets/typing.svg" alt="Typing Animation: Developer • Designer • Learner | Code • Create • Improve | Flutter • Python • JavaScript" width="480">
 
 <br/><br/>
 
 <!-- Custom Animated Coding Character Visual -->
-<img src="./assets/coding-boy.svg" alt="Ruditha Yukthika - Animated Coding Developer" width="700">
+<img src="./assets/coding-boy.svg" alt="Ruditha Yukthika - Animated Coding Developer" width="100%" style="max-width: 820px;">
 
 <br/><br/>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 I'm Ruditha, a developer and UI/UX designer who enjoys building applications, creating clean interfaces, and learning new technologies. I work with web, mobile, backend, and networking technologies, with a current focus on Flutter, Python, and modern development tools.
 
@@ -170,7 +170,6 @@ while (learning) {
     improve();
 }
 ```
-
 
 **Thanks for visiting my profile! 🚀**
 
