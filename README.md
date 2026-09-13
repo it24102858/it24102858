@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Animated Typing Subtitle -->
-<img src="./assets/typing.svg" alt="Typing Animation: Developer • Designer • Learner | Code • Create • Improve | Flutter • Python • JavaScript" width="480">
+<img src="./assets/typing.svg" alt="Typing Animation: Developer • Designer • Learner | Code • Create • Improve | Flutter • Python • JavaScript" width="500">
 
 <br/><br/>
 
