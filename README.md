@@ -25,7 +25,7 @@
 
 ---
 
-## 👨💻 About Me
+## 👨‍💻 About Me
 
 I'm Ruditha, a developer and UI/UX designer who enjoys building applications, creating clean interfaces, and learning new technologies. I work with web, mobile, backend, and networking technologies, with a current focus on Flutter, Python, and modern development tools.
 
