@@ -12,7 +12,7 @@
 <br/><br/>
 
 <!-- Custom Animated Coding Character Visual -->
-<img src="./assets/coding-boy.svg" alt="Ruditha Yukthika - Animated Coding Developer" width="100%" style="max-width: 820px;">
+<img src="./assets/Software Devlopment" alt="Ruditha Yukthika - Animated Coding Developer" width="100%" style="max-width: 820px;">
 
 <br/><br/>
 
