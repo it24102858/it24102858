@@ -134,12 +134,10 @@ I'm Ruditha, an IT undergraduate, developer, and UI/UX designer who enjoys build
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=it24102858&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=it24102858&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=it24102858&theme=dark&hide_border=true&include_all_commits=true&count_private=true&v=2" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=it24102858&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2" />
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=it24102858&theme=dark&hide_border=true" />
-
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=it24102858&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=it24102858&theme=dark&hide_border=true&v=2" />
 
 </div>
 
