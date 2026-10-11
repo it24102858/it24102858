@@ -7,7 +7,7 @@
 <!-- Animated coding visual (resized to fit nicely) -->
 <img src="./assets/Software%20Devlopment.svg" alt="Ruditha Yukthika - Animated Coding Developer" width="600" />
 
-<br/><br/>
+
 
 <img src="https://api.visitorbadge.io/api/visitors?path=it24102858&label=Profile%20Views&countColor=%230284c7&style=flat-square" alt="Profile Views Counter" />
 
