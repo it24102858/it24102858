@@ -9,8 +9,7 @@
 
 <br/><br/>
 
-
-<img src="https://komarev.com/ghpvc/?username=it24102858&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views Counter" />
+<img src="https://api.visitorbadge.io/api/visitors?path=it24102858&label=Profile%20Views&countColor=%230284c7&style=flat-square" alt="Profile Views Counter" />
 
 </div>
 
